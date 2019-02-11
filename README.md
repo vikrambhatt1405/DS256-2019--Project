@@ -1,5 +1,5 @@
 # DS256-2019--Project
-Store articles,checkpoints,stats,numbers and everything........
+Articles,checkpoints,stats,numbers and everything else........
 ## Articles
 
 1.[Streaming Distributed DNA Sequence Alignment Using Apache Spark](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8251287)
