@@ -9,3 +9,5 @@ Store articles,checkpoints,stats,numbers and everything........
 3.[SparkGA: A Spark Framework for Cost Effective, Fast and Accurate DNA Analysis at Scale](https://ce-publications.et.tudelft.nl/publications/1619_sparkga_a_spark_framework_for_cost_effective_fast_and_acc.pdf)
 
 4.[Cluster-Based Apache Spark Implementation of the GATK DNA Analysis Pipeline](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359893)
+
+5.[Heterogeneous Hardware/Software Acceleration of the BWA-MEM DNA Alignment Algorithm ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7372576)
