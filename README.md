@@ -16,3 +16,8 @@ Articles,checkpoints,stats,numbers and everything else........
 
 7.[An intermediate data placement algorithm for load balancing in Spark computing environment](https://www.sciencedirect.com/science/article/pii/S0167739X16302126)
 
+8.[Sparrow: Scalable Scheduling for Sub-Second Parallel Jobs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-29.pdf)
+
+9.[An enforcement of real time scheduling in Spark Streaming](https://ieeexplore.ieee.org/abstract/document/7393730)
+
+10.
