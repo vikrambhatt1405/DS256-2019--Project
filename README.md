@@ -21,3 +21,7 @@ Articles,checkpoints,stats,numbers and everything else........
 9.[An enforcement of real time scheduling in Spark Streaming](https://ieeexplore.ieee.org/abstract/document/7393730)
 
 10.[Official code repository for GATK versions 4 and up](https://github.com/broadinstitute/gatk)
+
+11.[Design and Implementation of Scheduling Pool Scheduling Algorithm Based on Reuse of Jobs in Spark](https://ieeexplore.ieee.org/document/7866139)
+
+12.[A Hard Real-time Scheduler for Spark on YARN](https://ieeexplore.ieee.org/document/8411083)
