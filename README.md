@@ -11,3 +11,8 @@ Articles,checkpoints,stats,numbers and everything else........
 4.[Cluster-Based Apache Spark Implementation of the GATK DNA Analysis Pipeline](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359893)
 
 5.[Heterogeneous Hardware/Software Acceleration of the BWA-MEM DNA Alignment Algorithm ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7372576)
+
+6.[Spark Scheduler-DeepDive Talk:Data Bricks](https://databricks.com/session/apache-spark-scheduler)
+
+7.[An intermediate data placement algorithm for load balancing in Spark computing environment](https://www.sciencedirect.com/science/article/pii/S0167739X16302126)
+
