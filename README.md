@@ -55,9 +55,54 @@ https://github.com/HamidMushtaq/SparkGA1.git.
 
 4.[Cluster-Based Apache Spark Implementation of the GATK DNA Analysis Pipeline](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359893)
 
+—Fast progress in next generation sequencing has
+dramatically increased the throughout of DNA sequencing, resulting in the availability of large DNA data sets ready for
+analysis. However, post-sequencing DNA analysis has become the
+bottleneck in using these data sets, as it requires powerful and
+scalable tools to perform the needed analysis. A typical analysis
+pipeline consists of a number of steps, not all of which can readily
+scale on a distributed computing infrastructure. Recently, tools
+like Halvade, a Hadoop MapReduce solution, and Churchill, an
+HPC cluster-based solution, addressed this issue of scalability in
+the GATK DNA analysis pipeline. In this paper, we present a
+framework that implements an in-memory distributed version of
+the GATK pipeline using Apache Spark. Our framework reduced
+execution time by keeping data active in the memory between
+the map and reduce steps. In addition, it has a dynamic load
+balancing algorithm that better utilizes system performance using
+runtime statistics of the active workload. Experiments on a 4 node
+cluster with 64 virtual cores show that this approach is 63% faster
+than a Hadoop MapReduce based solution.
+
 5.[Heterogeneous Hardware/Software Acceleration of the BWA-MEM DNA Alignment Algorithm ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7372576)
 
+The fast decrease in cost of DNA sequencing has
+resulted in an enormous growth in available genome data,
+and hence led to an increasing demand for fast DNA analysis
+algorithms used for diagnostics of genetic disorders, such as
+cancer. One of the most computationally intensive steps in the
+analysis is represented by the DNA read alignment. In this
+paper, we present an accelerated version of BWA-MEM, one of
+the most popular read alignment algorithms, by implementing
+a heterogeneous hardware/software optimized version on the
+Convey HC2ex platform. A challenging factor of the BWAMEM algorithm is the fact that it consists of not one, but
+three computationally intensive kernels: SMEM generation, suffix
+array lookup and local Smith-Waterman. Obtaining substantial
+speedup is hence contingent on accelerating all of these three
+kernels at once. The paper shows an architecture containing
+two hardware-accelerated kernels and one kernel optimized in
+software. The two hardware kernels of suffix array lookup
+and local Smith-Waterman are able to reach speedups of 2.8x
+and 5.7x, respectively. The software optimization of the SMEM
+generation kernel is able to achieve a speedup of 1.7x. This
+enables a total application acceleration of 2.6x compared to the
+original software version.
+
 6.[Spark Scheduler-DeepDive Talk:Data Bricks](https://databricks.com/session/apache-spark-scheduler)
+
+As a core component of data processing platform, scheduler is responsible for schedule tasks on compute units. Built on a Directed Acyclic Graph (DAG) compute model, Spark Scheduler works together with Block Manager and Cluster Backend to efficiently utilize cluster resources for high performance of various workloads. This talk dives into the technical details of the full lifecycle of a typical Spark workload to be scheduled and executed, and also discusses how to tune Spark scheduler for better performance.
+
+
 
 7.[An intermediate data placement algorithm for load balancing in Spark computing environment](https://www.sciencedirect.com/science/article/pii/S0167739X16302126)
 
