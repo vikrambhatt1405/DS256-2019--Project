@@ -30,7 +30,7 @@ available at https://github.com/HamidMushtaq/StreamBWA
 
 Next-generation sequencing (NGS) technologies have led to a huge amount of genomic data that need to be analyzed and interpreted. This fact has a huge impact on the DNA sequence alignment process, which nowadays requires the mapping of billions of small DNA sequences onto a reference genome. In this way, sequence alignment remains the most time-consuming stage in the sequence analysis workflow. To deal with this issue, state of the art aligners take advantage of parallelization strategies. However, the existent solutions show limited scalability and have a complex implementation. In this work we introduce SparkBWA, a new tool that exploits the capabilities of a big data technology as Spark to boost the performance of one of the most widely adopted aligner, the Burrows-Wheeler Aligner (BWA). The design of SparkBWA uses two independent software layers in such a way that no modifications to the original BWA source code are required, which assures its compatibility with any BWA version (future or legacy). SparkBWA is evaluated in different scenarios showing noticeable results in terms of performance and scalability. A comparison to other parallel BWA-based aligners validates the benefits of our approach. Finally, an intuitive and flexible API is provided to NGS professionals in order to facilitate the acceptance and adoption of the new tool. The source code of the software described in this paper is publicly available at https://github.com/citiususc/SparkBWA, with a GPL3 license
 
-3.[SparkGA: A Spark Framework for Cost Effective, Fast and Accurate DNA Analysis at Scale](https://ce-publications.et.tudelft.nl/publications/1619_sparkga_a_spark_framework_for_cost_effective_fast_and_acc.pdf)
+3.[SparkGA: A Spark Framework for Cost Effective, Fast and Accurate DNA Analysis at Scale](https://ce-publications.et.tudelft.nl/publications/1619_sparkga_a_spark_framework_for_cost_effective_fast_and_acc.pdf),ACM-BCB’17, August 20–23, 2017, Boston, MA, USA
 
 In recent years, the cost of NGS (Next Generation Sequencing)
 technology has dramatically reduced, making it a viable method for
@@ -53,7 +53,7 @@ with an accuracy of up to 99.9981%. Moreover, SparkGA is about
 more accurate. The source code of SparkGA is publicly available at
 https://github.com/HamidMushtaq/SparkGA1.git.
 
-4.[Cluster-Based Apache Spark Implementation of the GATK DNA Analysis Pipeline](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359893)
+4.[Cluster-Based Apache Spark Implementation of the GATK DNA Analysis Pipeline](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359893),2015
 
 —Fast progress in next generation sequencing has
 dramatically increased the throughout of DNA sequencing, resulting in the availability of large DNA data sets ready for
