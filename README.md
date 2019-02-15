@@ -144,3 +144,7 @@ targeted at different objectives and scales of clusters with diverse optimizatio
 In this paper, we survey sixteen popular scheduling frameworks, developed by companies
 or communities, which we classify in four types: resource managers, Spark schedulers,
 Microsoft Cosmos [CJL+08] scheduler and YARN-Based scheduler.
+
+*[Practical Genomics with Apache Spark- Tom White](https://databricks.com/session/practical-genomics-with-apache-spark)
+
+Tom White is a data scientist at Cloudera, specializing in big data and bioinformatics. Previously, Tom was a distributed systems engineer on Hadoop technologies at Cloudera, where he has worked since its foundation in 2008. Tom is a Apache Hadoop committer and author of "Hadoop: the Definitive Guide" the bestselling book published by O'Reilly Media.
