@@ -53,7 +53,7 @@ with an accuracy of up to 99.9981%. Moreover, SparkGA is about
 more accurate. The source code of SparkGA is publicly available at
 https://github.com/HamidMushtaq/SparkGA1.git.
 
-4.[Cluster-Based Apache Spark Implementation of the GATK DNA Analysis Pipeline](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359893),2015
+4.[Cluster-Based Apache Spark Implementation of the GATK DNA Analysis Pipeline](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359893),17 December 2015.
 
 —Fast progress in next generation sequencing has
 dramatically increased the throughout of DNA sequencing, resulting in the availability of large DNA data sets ready for
